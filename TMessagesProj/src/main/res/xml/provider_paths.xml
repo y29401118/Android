@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-files-path
+        name="images"
+        path="Pictures" />
+    <files-path
+        name="files"
+        path="files" />
+    <cache-path
+        name="cache"
+        path="files" />
+    <external-path
+        name="external"
+        path="files" />
+    <external-files-path
+        name="externalfiles"
+        path="files" />
+    <!-- 此标签需要 support 25.0.0以上才可以使用-->
+    <external-cache-path
+        name="externalcache"
+        path="files" />
+    <external-path
+        name="camera_photos"
+        path="." />
+
+    <external-cache-path
+        name="Android/data/com.zysy.wegram/files/Pictures/"
+        path="my_images" />
+    <external-cache-path
+        name="Pictures/"
+        path="images" />
+    <external-cache-path
+        name="DCIM/"
+        path="dcim" />
+
+    <external-path
+        name="media"
+        path="." />
+
+    <root-path
+        name="external_files"
+        path="/storage/" />
+</paths>
